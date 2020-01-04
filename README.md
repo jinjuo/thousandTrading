@@ -7,8 +7,8 @@ Quantized transaction strategy open source
 
 进群请联系管理员微信thousandtrading
 
-![image](https://github.com/thousandTrading/thousandTrading/blob/master/images/thousandTrading.png)
+![image](https://github.com/thousandTrading/thousandTrading/blob/master/images/thousandTrading .jpg)
 
 开源不易，适当赞赏可以提升千千的更新动力
 
-![image](https://github.com/thousandTrading/thousandTrading/blob/master/images/wallet.png)
+![image](https://github.com/thousandTrading/thousandTrading/blob/master/images/wallet.jpg)
